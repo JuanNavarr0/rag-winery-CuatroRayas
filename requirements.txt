@@ -1,0 +1,7 @@
+openai
+numpy
+pandas
+PyPDF2
+sentence-transformers
+python-dotenv
+sqlite3

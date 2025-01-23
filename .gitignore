@@ -1,0 +1,17 @@
+# Node.js
+/node_modules/
+/.next/
+/out/
+
+# Python
+*.pyc
+__pycache__/
+
+# Bases de datos y datos sensibles
+*.db
+.env
+
+# Logs y configuraciones locales
+*.log
+.vscode/
+.DS_Store
