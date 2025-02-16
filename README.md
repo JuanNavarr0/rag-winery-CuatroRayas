@@ -8,6 +8,11 @@ This repository contains a **Retrieval-Augmented Generation (RAG)** system devel
 - **Interactive Chat Interface**: Query and interact with winery knowledge via a user-friendly React frontend.
 - **Scalable Architecture**: Backend in Python and SQLite, frontend in React and TailwindCSS.
 
+## Preview
+Below is a preview of the frontend interface:
+
+![Frontend Preview](images/assets/frontend.png)
+
 ## Tech Stack
 - **Backend**: Python, SQLite, SentenceTransformers, OpenAI GPT-3.5
 - **Frontend**: Next.js, React, TailwindCSS
